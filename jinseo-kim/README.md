@@ -1,3 +1,3 @@
 # 김진서
 
-git add jinseo-kim
+- 학번: GG226001
